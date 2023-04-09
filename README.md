@@ -1,3 +1,3 @@
 # puzzlegame
 just a game
-一个简单得拼图游戏
+一个简单的拼图游戏
